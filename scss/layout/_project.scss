@@ -22,18 +22,20 @@
         img {
             float: left !important;
             width: 500px;
+            margin-left: 5em;
         }
         p {
-            margin: 1em 4em 1em 35em;
+            margin: 1em 4em 1em 40em;
         }
     }
     .hack, .uidesign {
         img {
             float: right !important;
             width: 500px;
+            margin-right: 5em;
         }
         p {
-            margin: 1em 35em 1em 4em;
+            margin: 1em 40em 1em 4em;
         }
     }
 }
@@ -43,6 +45,7 @@
         img {
             float: left !important;
             width: 600px;
+            margin-left: 5em;
         }
         p {
             margin: 1em 4em 1em 45em;
@@ -52,6 +55,7 @@
         img {
             float: right !important;
             width: 600px;
+            margin-right: 5em;
         }
         p {
             margin: 1em 45em 1em 4em;

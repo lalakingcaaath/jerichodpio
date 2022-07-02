@@ -52,6 +52,9 @@ button {
     padding: 0.5em;
     margin-bottom: 2em;
     cursor: pointer;
+    a {
+        color: black;
+    }
 }
 
 @media only screen and (min-width: 1050px) {
