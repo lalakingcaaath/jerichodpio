@@ -51,6 +51,9 @@ button {
   margin-bottom: 2em;
   cursor: pointer;
 }
+button a {
+  color: black;
+}
 
 @media only screen and (min-width: 1050px) {
   button {
@@ -173,23 +176,26 @@ a, a:visited, a:active {
   .ten img, .ecommerce img {
     float: left !important;
     width: 500px;
+    margin-left: 5em;
   }
   .ten p, .ecommerce p {
-    margin: 1em 4em 1em 35em;
+    margin: 1em 4em 1em 40em;
   }
 
   .hack img, .uidesign img {
     float: right !important;
     width: 500px;
+    margin-right: 5em;
   }
   .hack p, .uidesign p {
-    margin: 1em 35em 1em 4em;
+    margin: 1em 40em 1em 4em;
   }
 }
 @media only screen and (min-width: 1300px) {
   .ten img, .ecommerce img {
     float: left !important;
     width: 600px;
+    margin-left: 5em;
   }
   .ten p, .ecommerce p {
     margin: 1em 4em 1em 45em;
@@ -198,6 +204,7 @@ a, a:visited, a:active {
   .hack img, .uidesign img {
     float: right !important;
     width: 600px;
+    margin-right: 5em;
   }
   .hack p, .uidesign p {
     margin: 1em 45em 1em 4em;
