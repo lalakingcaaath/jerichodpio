@@ -1,4 +1,4 @@
-.ten, .hack, .ecommerce, .uidesign {
+.ten, .hack, .ecommerce, .anura {
     display: block;
     h2, h3 {
         text-align: center;
@@ -10,7 +10,7 @@
 }
 
 @media only screen and (min-width: 750px) {
-    .ten, .hack, .ecommerce, .uidesign {
+    .ten, .hack, .ecommerce, .anura {
         p {
             margin: 1em 4em 2em 4em;
         }
@@ -28,7 +28,7 @@
             margin: 1em 4em 1em 40em;
         }
     }
-    .hack, .uidesign {
+    .hack, .anura {
         img {
             float: right !important;
             width: 500px;
@@ -51,7 +51,7 @@
             margin: 1em 4em 1em 45em;
         }
     }
-    .hack, .uidesign {
+    .hack, .anura {
         img {
             float: right !important;
             width: 600px;
