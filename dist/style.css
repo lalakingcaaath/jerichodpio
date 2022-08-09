@@ -127,6 +127,9 @@ a, a:visited, a:active {
   .profile h3 {
     margin-bottom: 2em;
   }
+  .profile img {
+    width: 25%;
+  }
 }
 .about {
   display: flex;
@@ -181,7 +184,6 @@ a, a:visited, a:active {
   .ten p, .ecommerce p {
     margin: 1em 4em 1em 40em;
   }
-
   .hack img, .uidesign img {
     float: right !important;
     width: 500px;
@@ -200,7 +202,6 @@ a, a:visited, a:active {
   .ten p, .ecommerce p {
     margin: 1em 4em 1em 45em;
   }
-
   .hack img, .uidesign img {
     float: right !important;
     width: 600px;
